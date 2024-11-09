@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "noteapprn",
+    "name": "Notedown",
     "slug": "noteapprn",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,10 +8,13 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": null,
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
+    "fonts": {
+    "Press Start 2P": "./assets/fonts/PressStart2P-Regular.ttf"
+  },
     "ios": {
       "supportsTablet": true
     },
@@ -19,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pext.notedown"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +35,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "08b701a2-4804-4725-a731-67ebb010cba3"
+      }
     }
   }
 }
