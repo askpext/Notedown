@@ -11,6 +11,5 @@ In the world of brain rott, make yourself a little productive by taking notes.
 - Share your writings
 - Full Privacy
 
-![Group 9](https://github.com/user-attachments/assets/6f707778-6c32-43b9-9c6d-1384d1420402)
-![Group 13](https://github.com/user-attachments/assets/64dfbb2e-f20f-49cc-8d36-4ae369af5933)![Group 14](https://github.com/user-attachments/assets/d8737d82-9066-4b4c-afec-554a5399e8d1)
+![Group 15](https://github.com/user-attachments/assets/3f7a1ddf-154e-4695-bc3a-78a912e2c7df)
 
