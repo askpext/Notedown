@@ -10,6 +10,7 @@ In the world of brain rott, make yourself a little productive by taking notes.
 - Minimalistic Lokk
 - Share your writings
 - Full Privacy
+
 ![Group 9](https://github.com/user-attachments/assets/9e53396a-0bdd-47cc-bf97-5bdc36c459ff)
 
 ![Group 15](https://github.com/user-attachments/assets/dfec60d8-04ba-47e8-95a0-68862f2cb0eb)
