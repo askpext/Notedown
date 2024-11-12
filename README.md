@@ -15,6 +15,6 @@ In the world of brain rott, make yourself a little productive by taking notes.
 
 ![Group 15](https://github.com/user-attachments/assets/dfec60d8-04ba-47e8-95a0-68862f2cb0eb)
 
-# Contributon
+# Contribution
 
 Though, Notedown follows less is more philosophy, however you can suggest a new feature or bug or maybe contribute to the codebase too!
